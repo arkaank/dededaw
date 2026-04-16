@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family: verdana;
+    margin-top:50px;
+}
+#nama{
+    font-size:20px;
+    font-family:verdana;
+    margin-top:40px;
+    margin-left:380px;
+}
+#nilai{
+    margin-top:-67px;
+    margin-left:700px;
+    font-size:20px;
+    font-family:verdana;
+}
+#pilihan{
+    text-align: center;
+    font-size:20px;
+    font-family:verdana;
+}
+#mapel{
+    text-align: center;
+    font-size:20px;
+    font-family:verdana;
+}
+#mtk{
+    margin-right:150px;
+    text-align: center;
+}
+#kimia{
+    margin-right:152px;
+    text-align: center;
+}
+#bio{
+    margin-right:133px;
+    text-align: center;
+}
+#fisika{
+    margin-left:150px;
+    margin-top:-114px;
+    text-align: center;
+}
+#infor{
+    margin-left:205px;
+    margin-top:0px;
+    text-align: center;
+}
+#bing{
+    margin-left:152px;
+    margin-top:155;
+    text-align: center;
+}
+#sosio{
+    text-align: center;
+}
+#submit{
+    text-align: center;
+}
+
+#link{
+    text-align: center;
+    margin-top:50px;
+
+}
+
